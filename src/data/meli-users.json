@@ -1,0 +1,24 @@
+[
+  {
+    "token": "123",
+    "fullname": "Ana Acosta",
+    "country": "ar",
+    "address": "Calle 123 A # 125C -18",
+    "addressDetail": "305",
+    "addressType": "office",
+    "region": "Buenos Aires",
+    "city": "Medellín",
+    "acceptTerms": true
+  },
+  {
+    "token": "321",
+    "fullname": "Carlos Cortes",
+    "country": "cl",
+    "address": "Calle 123 A # 125C -18",
+    "addressDetail": "305",
+    "addressType": "home",
+    "region": "Valparaíso",
+    "city": "Antioquia",
+    "acceptTerms": true
+  }
+]
