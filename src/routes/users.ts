@@ -23,7 +23,7 @@ usersRouter.get('/', (req: Request, res: Response) => {
     return res.status(400).json({ error: 'Token no proporcionado' });
   }
 
-  const filePath = path.join(__dirname, '../data/meli-users.json');
+  const filePath = path.resolve('src/data/meli-users.json');
   fs.readFile(filePath, 'utf-8', (err, data) => {
     if (err) {
       console.error('Error de lectura de meli-users.json:', err);
@@ -54,7 +54,7 @@ usersRouter.post('/', (req: Request, res: Response) => {
     return res.status(400).json({ error: 'Token requerido' });
   }
 
-  const filePath = path.join(__dirname, '../data/meli-users.json');
+  const filePath = path.resolve('src/data/meli-users.json');
   let users: User[] = [];
 
   if (fs.existsSync(filePath)) {

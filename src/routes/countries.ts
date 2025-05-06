@@ -5,7 +5,7 @@ import path from 'path';
 const countriesRouter = Router();
 
 countriesRouter.get('/', (_req: Request, res: Response) => {
-  const filePath = path.join(__dirname, '../data/meli-countries.json');
+  const filePath = path.resolve('src/data/meli-countries.json');
   fs.readFile(filePath, 'utf-8', (err, data) => {
     if (err) {
       console.error('Error de lectura de meli-countries.json:', err);
