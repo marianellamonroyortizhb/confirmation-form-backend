@@ -1,0 +1,110 @@
+[
+  {
+    "code": "ar",
+    "name": "Argentina",
+    "language": "es",
+    "regions": ["Buenos Aires", "Córdoba", "Santa Fe"]
+  },
+  {
+    "code": "bo",
+    "name": "Bolivia",
+    "language": "es",
+    "regions": ["La Paz", "Santa Cruz", "Cochabamba"]
+  },
+  {
+    "code": "br",
+    "name": "Brasil",
+    "language": "pt",
+    "regions": ["São Paulo", "Rio de Janeiro", "Bahia"]
+  },
+  {
+    "code": "cl",
+    "name": "Chile",
+    "language": "es",
+    "regions": ["Santiago", "Valparaíso", "Biobío"]
+  },
+  {
+    "code": "co",
+    "name": "Colombia",
+    "language": "es",
+    "regions": ["Cundinamarca", "Antioquia", "Valle del Cauca"]
+  },
+  {
+    "code": "cr",
+    "name": "Costa Rica",
+    "language": "es",
+    "regions": ["San José", "Alajuela", "Cartago"]
+  },
+  {
+    "code": "ec",
+    "name": "Ecuador",
+    "language": "es",
+    "regions": ["Pichincha", "Guayas", "Azuay"]
+  },
+  {
+    "code": "sv",
+    "name": "El Salvador",
+    "language": "es",
+    "regions": ["San Salvador", "Santa Ana", "La Libertad"]
+  },
+  {
+    "code": "gt",
+    "name": "Guatemala",
+    "language": "es",
+    "regions": ["Guatemala", "Quetzaltenango", "Escuintla"]
+  },
+  {
+    "code": "hn",
+    "name": "Honduras",
+    "language": "es",
+    "regions": ["Francisco Morazán", "Cortés", "Atlántida"]
+  },
+  {
+    "code": "mx",
+    "name": "México",
+    "language": "es",
+    "regions": ["CDMX", "Jalisco", "Nuevo León"]
+  },
+  {
+    "code": "ni",
+    "name": "Nicaragua",
+    "language": "es",
+    "regions": ["Managua", "León", "Chinandega"]
+  },
+  {
+    "code": "pa",
+    "name": "Panamá",
+    "language": "es",
+    "regions": ["Panamá", "Colón", "Chiriquí"]
+  },
+  {
+    "code": "py",
+    "name": "Paraguay",
+    "language": "es",
+    "regions": ["Central", "Asunción", "Itapúa"]
+  },
+  {
+    "code": "pe",
+    "name": "Perú",
+    "language": "es",
+    "regions": ["Lima", "Arequipa", "Cusco"]
+  },
+  {
+    "code": "do",
+    "name": "República Dominicana",
+    "language": "es",
+    "regions": ["Distrito Nacional", "Santiago", "La Vega"]
+  },
+  {
+    "code": "uy",
+    "name": "Uruguay",
+    "language": "es",
+    "regions": ["Montevideo", "Canelones", "Maldonado"]
+  },
+  {
+    "code": "ve",
+    "name": "Venezuela",
+    "language": "es",
+    "regions": ["Caracas", "Zulia", "Miranda"]
+  }
+]

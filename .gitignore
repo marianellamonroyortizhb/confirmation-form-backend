@@ -13,7 +13,7 @@ dist/
 !package-lock.json
 !tsconfig.json
 !src/data/meli-users.json
-!src/data/countries.json
+!src/data/meli-countries.json
 
 npm-debug.log*
 yarn-debug.log*
